@@ -1,0 +1,9 @@
+
+{
+  "name": "Pulse Coding Assignment - AetherLabs",
+  "description": "Recruitment assignment demonstrating AI integration for thermal performance analytics, marketing asset generation, and R&D video security.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
